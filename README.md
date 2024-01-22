@@ -1,4 +1,4 @@
-# Simple Ecommerce Cart System
+# Simple E-commerce Cart System
 
 This is a simple Java project that simulates a basic ecommerce shopping cart system. It allows users to add products to the cart, update quantities, remove items, and calculate the total bill with a discount strategy.
 
